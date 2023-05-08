@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author usr
+ *
+ */
+module shop {
+}
