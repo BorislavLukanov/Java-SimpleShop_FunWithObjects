@@ -28,6 +28,6 @@ class Populate_List {
 		bList[2].price = 3.5;
 		bList[2].inStock = 4;
 	}
-	 */ //option to populate 2nd list - check in main.java
+	 */ //option to populate 2nd list
 
 }
