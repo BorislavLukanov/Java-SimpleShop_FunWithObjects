@@ -1,5 +1,5 @@
 /*
- * Is ment for console in retro style like DOS and it looks like CISCO console, because I like it.
+ * Is meant for console in retro style like DOS and it looks like CISCO console, because I like it.
  */
 
 package shop;
